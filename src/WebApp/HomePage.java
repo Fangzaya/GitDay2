@@ -4,4 +4,5 @@ public class HomePage {
     //Setting up HomePage
     // add more
     //logo
+   // footer
 }
