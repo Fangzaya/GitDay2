@@ -7,5 +7,6 @@ public class Sale {
 //...
     // more sale
     //.....
+    // added holiday sale
 
 }
